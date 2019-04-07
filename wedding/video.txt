@@ -1,0 +1,22 @@
+<div class="col-md-4 gal-grid ">
+					<div class="gal-img">
+						<video width="320" height="240" controls>
+  						<source src="images/1.mp4" type="video/mp4">
+
+						</video>
+						<a href="images/3.jpg" class="b-link-stripe b-animate-go  swipebox">
+							<div class="item item-type-double">
+								<div class="item-hover">
+									<div class="item-info">			
+										<div class="line"></div>			
+										<div class="headline">Venue</div>
+										<div class="line"></div>
+									</div>
+									<div class="mask"></div>
+								</div>
+								<div class="item-img"><img src="images/3.jpg" alt=" " /></div>
+							</div>
+						</a>
+						<p>Doloremque laudantium</p>
+					</div>
+				</div>
